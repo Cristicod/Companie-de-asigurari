@@ -86,4 +86,4 @@ Exemple de utilizare:
 - Fără accidente
 Rezultat:
 - Bonus-Malus: B5
-- Preț: Calculat automat și afișat în consolă.kk
+- Preț: Calculat automat și afișat în consolă.
